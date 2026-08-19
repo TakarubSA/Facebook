@@ -61,6 +61,6 @@ app.get("/products", (req, res) => {
   });
 });
 
-app.listen(3000, () => {
+app.listen(3320, () => {
   console.log("Mock API running on http://localhost:3000");
 });
